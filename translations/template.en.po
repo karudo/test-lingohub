@@ -19,6 +19,9 @@ msgstr ""
 msgid "Little lives"
 msgstr "Little lives"
 
+msgid "password reset"
+msgstr "password reset"
+
 msgid "%{ n } foo"
 msgid_plural "%{ n } foos"
 msgstr[0] "%{ n } foo"
