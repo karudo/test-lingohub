@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: littleauth-web 1.2.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-13 16:29+0700\n"
+"POT-Creation-Date: 2017-08-13 19:06+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,5 +19,17 @@ msgstr ""
 msgid "Little lives"
 msgstr "Little lives"
 
+msgid "back to index"
+msgstr "Retour à l'index"
+
+msgid "change language"
+msgstr "changer de langue"
+
+msgid "current language: %{ lang }"
+msgstr "langue courante: %{ lang }"
+
 msgid "password reset"
 msgstr "password resette"
+
+msgid "This is test api"
+msgstr "C'est un test api!"
