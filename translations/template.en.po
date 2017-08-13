@@ -31,8 +31,8 @@ msgstr "change language"
 msgid "current language: %{ lang }"
 msgstr "current language: %{ lang }"
 
-msgid "password reset"
-msgstr "password reset"
+msgid "click to reset password"
+msgstr "click to reset password"
 
 msgid "This is test api"
 msgstr "This is test api"
