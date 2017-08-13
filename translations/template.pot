@@ -39,7 +39,7 @@ msgid "current language: %{ lang }"
 msgstr ""
 
 #: pages/index.vue:9
-msgid "password reset"
+msgid "click to reset password"
 msgstr ""
 
 #: pages/gettext.vue:26 pages/gettext.vue:34
