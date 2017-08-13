@@ -1,0 +1,30 @@
+# French translations for littleauth-web package
+# Traductions françaises du paquet littleauth-web.
+# Copyright (C) 2017 THE littleauth-web'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the littleauth-web package.
+# Automatically generated, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: littleauth-web 1.2.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-08-11 10:52+0700\n"
+"PO-Revision-Date: 2017-08-11 10:52+0700\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Content-Type: text/plain; charset=UTF-8"
+
+msgid "back to index"
+msgstr "Retour à l'index"
+
+msgid "change language"
+msgstr "changer de langue"
+
+msgid "current language: %{ lang }"
+msgstr "langue courante: %{ lang }"
+
+msgid "This is test api"
+msgstr "C'est un test api!"
