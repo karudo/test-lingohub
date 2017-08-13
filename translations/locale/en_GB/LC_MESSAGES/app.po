@@ -27,4 +27,4 @@ msgid "current language: %{ lang }"
 msgstr "current language: %{ lang }"
 
 msgid "This is test api"
-msgstr "This is test api"
+msgstr "This is test api!"
