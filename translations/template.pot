@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: littleauth-web 1.2.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-11 10:52+0700\n"
+"POT-Creation-Date: 2017-08-13 16:29+0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,11 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: pages/index.vue:4
+msgid "Little lives"
+msgstr ""
 
 #: pages/gettext.vue:14
 msgid "back to index"
@@ -29,6 +34,12 @@ msgstr ""
 msgid "current language: %{ lang }"
 msgstr ""
 
-#: pages/gettext.vue:26 pages/gettext.vue:32
+#: pages/gettext.vue:26 pages/gettext.vue:34
 msgid "This is test api"
 msgstr ""
+
+#: pages/gettext.vue:28
+msgid "%{ n } foo"
+msgid_plural "%{ n } foos"
+msgstr[0] ""
+msgstr[1] ""
