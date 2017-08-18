@@ -15,3 +15,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Content-Type: text/plain; charset=UTF-8"
+
+msgid "%{ count } car"
+msgid_plural "%{ count } cars"
+msgstr[0] "%{ count } car"
+
+msgid "Little lives"
+msgstr "ll"
